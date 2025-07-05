@@ -45,9 +45,3 @@ Dia,Clima,Temperatura
 - Solo se consideran transiciones entre días consecutivos (por ejemplo, del día 1 al 2, 2 al 3, etc.).
 - El modelo utiliza todos los atributos excepto la columna de día para definir el estado.
 - Si el estado ingresado para predecir no existe en el modelo, se mostrará una advertencia.
-
-## Personalización
-Puedes usar cualquier archivo CSV con estructura similar (una columna de día y otras de atributos). El programa es flexible y detecta automáticamente los nombres de las columnas.
-
-## Autoría y créditos
-Desarrollado para la entrega de la tarea de Aprendizaje por Refuerzo y Modelos de Markov.
